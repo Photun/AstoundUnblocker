@@ -16,6 +16,9 @@
 body {
     margin: 0;
     background-image: url("360_F_572828530_ofzCYowQVnlOwkcoBJnZqT36klbJzWdn.gif");
+    background-image: url("your-image-file-name.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
