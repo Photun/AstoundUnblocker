@@ -10,7 +10,7 @@
 }
 
 * {
-    font-family: Roboto;
+    font-family: Segoe UI;
 }
 
 body {
@@ -45,7 +45,8 @@ body {
 
 .logo-wrapper .text {
     font-size: 75px;
-    font-family: "Roboto";
+    font-family: "Segoe UI";
+    font-weight: bold;
     color: #FFF;
 }
 
